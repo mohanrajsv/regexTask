@@ -1,0 +1,14 @@
+<planets>
+    <planet id = "1">
+        <name>earth</name>
+        <name> Assist earth</name>
+    </planet>
+    <planet id = "2">
+        <name>Mars</name>
+        <name> Assist mar</name>
+    </planet>
+    <planet id = "3">
+        <name>Jupitor</name>
+        <name> Assist Jupitor</name>
+    </planet>
+</planets>
